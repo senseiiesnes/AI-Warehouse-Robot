@@ -1,6 +1,6 @@
 # Warehouse Robot Solution with Q-Learning
 
-![Robot Image](robot_image.png) <!-- You can add an image of your robot here -->
+![Robot Image](https://github.com/senseiiesnes/AI-Warehouse-Robot/blob/main/robot.jpg?raw=true)
 
 ## Table of Contents
 
